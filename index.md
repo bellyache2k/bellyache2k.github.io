@@ -1,7 +1,7 @@
 
-Webpage test
 
+# Here I post my notes on 
+# Quantum Computing and Computer Science
 
-# Here I post my notes on Quantum Computing and Computer Science
-
-[Link to About page](vim.md)
+Notes on [C programming language](Programming/C.md)\
+Notes on [vim page](vim.md)

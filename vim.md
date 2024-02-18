@@ -2,7 +2,6 @@
 [Missing semester](https://missing.csail.mit.edu/2020/editors/) suggests an example of `.vimrc file`
 
 ```bash
-
 " Comments in Vimscript start with a `"`.
 
 " If you open this file in Vim, it'll be syntax highlighted for you.
