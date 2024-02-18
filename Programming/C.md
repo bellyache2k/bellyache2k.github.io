@@ -1,7 +1,9 @@
+
+
+
 C hello world
 
-
-```C
+```c
 int main(void) {
 
     printf("Hello world\n");
@@ -14,7 +16,7 @@ int main(void) {
 
 a simple example of Makefile:
 
-```Make
+```make
 CC = gcc
 CFLAGS = -Wall -Wextra -Werror=declaration-after-statement -Wunused-but-set-variable -pedantic
 CFLAGS += -g
